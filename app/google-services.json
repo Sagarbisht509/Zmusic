@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319856481050",
+    "project_id": "zmusic-fea7d",
+    "storage_bucket": "zmusic-fea7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319856481050:android:2f7f96c2cdfafc089ad2a3",
+        "android_client_info": {
+          "package_name": "com.sagar.zmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319856481050-3h5om9chu3i56qb04201t4c6tumb9qgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBPcCjIeR6a3t-pXM4-s3A38fDnhFvKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319856481050-3h5om9chu3i56qb04201t4c6tumb9qgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
