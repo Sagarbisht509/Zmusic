@@ -7,8 +7,8 @@ import kotlinx.coroutines.tasks.await
 
 class MusicDatabase {
 
-    private val firestore = FirebaseFirestore.getInstance()
-    private val songCollection = firestore.collection(SONG_COLLECTION)
+    private val fireStore = FirebaseFirestore.getInstance()
+    private val songCollection = fireStore.collection(SONG_COLLECTION)
 
     // this fun is suspend bxz we did not want to execute this fun in main thread
     suspend fun getAllSongs(): List<Song> {
